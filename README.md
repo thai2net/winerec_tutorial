@@ -1,4 +1,4 @@
-# Winerama  
+# Wine Recommender System
 ###### a web recommender tutorial using Python, Django, and Pandas.  
 
 This repository contains the code for such a web application in different stages as git tags.  
@@ -26,8 +26,8 @@ This repository contains the code for such a web application in different stages
 The following tutorials will guide you through each of the previous Git tags while learning different 
 concepts of data product development with Python.  
 
-#### [A Wine Review Website using Django and Bootstrap](https://github.com/jadianes/winerama-recommender-tutorial/blob/master/tutorials/tutorial_1.md)  
+#### A Wine Review Website using Django and Bootstrap
 
-#### [Adding User management](https://github.com/jadianes/winerama-recommender-tutorial/blob/master/tutorials/tutorial_2.md)  
+#### Adding User management
 
-#### [Providing wine recommendations using K-Means](https://github.com/jadianes/winerama-recommender-tutorial/blob/master/tutorials/tutorial_3.md)  
+#### Providing wine recommendations using K-Means
